@@ -1,1 +1,2 @@
 # bibliometric-athlete-leadership-
+-	Conducted a bibliometric analysis of the athlete leadership literature to gain a better understanding of the to author landscape from an intellectual point of view and to identify key publications. Findings identified two key types of researchers, those focusing on leader behaviours and those focusing on social identity.![image](https://user-images.githubusercontent.com/66022678/136431693-b8e2b49a-1c21-4da5-8b32-dbbef343cace.png)
